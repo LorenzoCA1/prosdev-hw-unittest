@@ -30,3 +30,4 @@ D | Did not Meet Expectation | 74.99 and below
 
 ## Results
 *TODO: Insert screenshot of the results from the command line*
+<img width="603" alt="Terminalrun" src="https://user-images.githubusercontent.com/47266252/88032448-8a94ba80-cb70-11ea-9432-4e807917b164.png">
